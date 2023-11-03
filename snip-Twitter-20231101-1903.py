@@ -10,3 +10,6 @@ print( []*3 )
 # C. []
 # D. ValueError
 #
+# Discovered the answer is C.
+# Hmm. Wonder why.
+#
